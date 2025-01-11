@@ -6,7 +6,7 @@ Este proyecto realiza un análisis exploratorio y predictivo de la recaudación 
 
 1. README
 2. Datos
-3. Archivo_ipynb
+3. src
 
 ## 📊 Resultados y Conclusiones
 -
