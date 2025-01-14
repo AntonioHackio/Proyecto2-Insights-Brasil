@@ -9,7 +9,8 @@ Este proyecto realiza un análisis exploratorio y predictivo de la recaudación 
 3. src
 
 ## 📊 Resultados y Conclusiones
--
+Analizada la información, cabe destacar que los resultados contabilizados son mucho menores a los realmente realizados, por lo que da que pensar en la posibilidad de que las administraciones públicas estén declarando menos ingresos de los que realmente obtienen por algún motivo desconocido. 
+Si bien es cierto que en algunas categorías han recaudado más de los previsto 
 
 ## 🔄 Próximos Pasos
 
