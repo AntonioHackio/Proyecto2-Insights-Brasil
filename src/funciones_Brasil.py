@@ -1,5 +1,5 @@
+
 import pandas as pd
-import numpy as np
 
 ###Función para calcular el porcentaje de nulos###
 def porcentaje_nulos(df):
